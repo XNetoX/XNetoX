@@ -1,7 +1,7 @@
 ## Olá me chamo Mauricio Neto, sou desenvolvedor web com foco em segurança ! 💻
 
 - ⚙️ Atualmente trabalhando com desenvolvimento web
-- 📒 Estudante de segurança da informação e de programação
+- 📒 Estudante de segurança da informação e programação
 
 ##
 
