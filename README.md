@@ -1,7 +1,7 @@
 ## Olá me chamo Mauricio Neto, sou desenvolvedor Python com foco em segurança ! 💻
 
 - ⚙️ Atualmente trabalhando com desenvolvimento full stack com Python
-- 📒 Estudante de segurança da informação e programação
+- 📒 Estudante de segurança da informação
 
 ##
 
