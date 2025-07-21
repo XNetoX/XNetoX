@@ -1,44 +1,79 @@
-## Olá me chamo Mauricio Neto, e sou desenvolvedor Fullstack Python! 💻
-Sobre Mim:
+<h2 align="left">👋 Bem vindo, sou o Jose Mauricio da Silva Neto, mas pode chamar de Mauricio!</h2>
 
-Entusiasmado e altamente experiente, com um conjunto diversificado de habilidades técnicas. Minha jornada no mundo da programação abrange uma ampla gama de atividades, desde a automação robótica de processos (RPA) até a criação de aplicaçẽs web.
+###
 
-Como desenvolvedor Python, estou comprometido em criar soluções tecnológicas inovadoras e eficazes. Minhas diversas habilidades me capacitam a enfrentar desafios e fornecer resultados excepcionais.
+<p align="left">
+  💻 Desenvolvedor Full Stack Python com experiência sólida em Django, Flask, FastAPI, RPA, automações e aplicações que entregam resultado de verdade.<br><br>
+  🚀 Já coloquei a mão na massa em todo tipo de projeto: de scrapers robustos a sistemas globais de monitoramento de rede e ainda colaborei com o portal Trampolim do Governo de SP.<br><br>
+  🐍 Pythonzeiro raiz, admirador do código limpo, automações inteligentes e soluções que resolvem o problema sem enrolação.<br><br>
+  🔧 Tech stack: Python, Django, Flask, FastAPI, PostgreSQL, Docker, Git, Linux e várias outras ferramentas que me garantem uma boa noite de sono depois do deploy.<br><br>
+  🎓 Atualmente cursando Engenharia de Software.<br><br>
+  📬 Me chama no LinkedIn!
+</p>
 
-Estou pronto para ajudar a levar seus projetos para o próximo nível!
-
-## O Que Eu Faço de Melhor
-º Desenvolvimento Web e Front-end: Tenho um dom para criar interfaces de usuário incríveis e amigáveis, usando HTML, CSS, Js e frameworks. Vou desde a criação de páginas web simples até o desenvolvimento de aplicaçẽs web dinâmicas.
-
-º Back-end e Frameworks Python: Sou um mestre em Python, especialmente com Flask, Django, SQLAlchemy e outras tecnologias relacionadas. Isso me permite criar servidores robustos, APIs RESTful e aplicativos escaláveis que são a espinha dorsal de muitos projetos.
-
-º Banco de Dados: Tenho experiência em bancos de dados relacionais, como SQLite e PostgreSQL. Além disso, sou habilidoso em ETL (Extração, Transformação e Carregamento), o que me permite lidar eficientemente com dados.
-
-º Amazon Web Services (AWS): Tenho experiência prática em serviços da AWS, aproveitando a infraestrutura em nuvem para hospedar, dimensionar e gerenciar aplicações.
-
-º Docker: Utilizo o Docker para criar ambientes de desenvolvimento e implantação consistentes e isolados, garantindo que meus aplicativos sejam facilmente transportáveis.
-
-º Pandas e Web Scraping: Com conhecimento em Pandas e habilidades de web scraping, posso manipular dados complexos e extrair informações da web.
-
-º Controle de Versão: Sou um usuário ágil do Git e do GitHub, o que me permite colaborar efetivamente com outros desenvolvedores e manter um histórico de controle de versão seguro.
-
-º Metodologias Ágeis: Estou familiarizado com metodologias ágeis de desenvolvimento, como Scrum, e posso trabalhar de forma colaborativa em equipes ágeis para entregar software de alta qualidade.
-
-º Bancos de Dados SQL: Tenho um conhecimento sólido em SQL, o que me permite projetar e consultar bancos de dados eficientes para atender às necessidades do projeto.
-
-##
+###
 
 <div align="center">
- <a href="https://github.com/XNetoX">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XNetoX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XNetoX&layout=compact&langs_count=7&theme=dark"/>
+  <a href="mailto:programanetox@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/mauricionetodev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
-##
+###
 
 <div align="center">
- <a href="https://www.linkedin.com/in/mauricionetodev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:programanetox@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://api.whatsapp.com/send?phone=5511939499838"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- </div>
+  <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xienl0MTBtZHRtcWVqeHRyaWhrMmgxcnNjaGFhZnl6eGRmeXA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XNetoX/XNetoX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XNetoX/XNetoX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XNetoX/XNetoX/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+</div>
+
+###
